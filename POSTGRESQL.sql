@@ -60,7 +60,7 @@ JOIN CLASSES CLS ON SUB.SUBJECT_ID=CLS.SUBJECT_ID
 WHERE SUBJECT_NAME= 'Science';
 
 
-
+---locally run sql queery in my code editor and connect to postgresql database to fetch the data.
 
 
 
